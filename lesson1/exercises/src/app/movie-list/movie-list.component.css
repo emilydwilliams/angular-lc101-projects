@@ -1,0 +1,8 @@
+.movies {
+    color: crimson;
+    font-size: medium;
+}
+
+.movies > h3 {
+    text-align: center;
+}

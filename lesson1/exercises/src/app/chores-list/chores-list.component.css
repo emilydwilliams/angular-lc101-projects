@@ -1,0 +1,12 @@
+.chores {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: teal;
+}
+
+.chores > h3 {
+    text-decoration: underline;
+}
+
+.chores > ul {
+    font-style: italic;
+}
